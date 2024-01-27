@@ -4,7 +4,7 @@ import "normalize.css";
 import { App } from "./app";
 
 const app = document.getElementById("app");
-///comment
+///comment comment
 if (app) {
   const root = createRoot(app);
 
