@@ -1,10 +1,10 @@
-import { createRoot } from 'react-dom/client';
+import { createRoot } from "react-dom/client";
 
-import 'normalize.css';
-import { App } from './app';
+import "normalize.css";
+import { App } from "./app";
 
-const app = document.getElementById('app');
-
+const app = document.getElementById("app");
+///comment
 if (app) {
   const root = createRoot(app);
 
